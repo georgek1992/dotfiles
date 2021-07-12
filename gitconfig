@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = georgekellyabc@hotmail.co.uk
+	name = George Kelly
